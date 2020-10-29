@@ -27,7 +27,7 @@
 .girlPhotoBox img{
     width: 90%;
     height: 94%;
-    object-fit: cover;
+    object-fit: contain;
 }
 .girlPhotoName{
     width: 95%;

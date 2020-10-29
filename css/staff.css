@@ -54,7 +54,7 @@ border: 0px;
   .swiper-slide1 img{
     width: 90%;
     height: 94%;
-    object-fit: cover;
+    object-fit: contain;
   }
   .staPhotoffBox{
       width: 55%;

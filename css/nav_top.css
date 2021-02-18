@@ -105,15 +105,15 @@ a{
 }
 .topTxt{
     margin-top: 5px;
-    height: 11px;
+    height: 19px;
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
 }
 .logo{
-    width: 251px;
-    height: 105px;
+    width: 240px;
+    height: 140px;
     background-image: url(../img/logo.png);
 }
 .topTxtleft ,.topTxtRight ,.btuTxtleft ,.btuTxtRight{ 
